@@ -26,6 +26,6 @@
 - Place: Bacaca, Davao City
 - GitHub: (https://github.com/antonsison)
 
-#### Name: [Melchi Lloyd Aballe](https://github.com/antonsison)
+#### Name: [Melchi Lloyd Aballe](https://github.com/melchiaballe)
 - Place: Cabantian, Davao City
-- GitHub: (https://github.com/antonsison)
+- GitHub: (https://github.com/melchiaballe)
